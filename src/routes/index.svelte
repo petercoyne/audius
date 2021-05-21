@@ -22,8 +22,8 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<h2 class="mb-10 bg-red-400">
-		try edsiting <strong>src/routes/index.svelte</strong>
+	<h2 class="">
+		try edsiting <strong class="text-blue-500">src/routes/index.svelte</strong>
 	</h2>
 
 	<Counter />
